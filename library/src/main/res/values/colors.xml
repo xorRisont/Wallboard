@@ -28,7 +28,7 @@
 
     <!-- Navigation View -->
     <color name="navigationViewTitle">#FFFFFF</color>
-    <color name="navigationViewTitleBack">#55000000</color>
+    <color name="navigationViewTitleBack">#00000000</color>
 
     <color name="navigationViewText">#D9000000</color>
     <color name="navigationViewTextDark">#FFFFFF</color>
