@@ -7,7 +7,7 @@
 
     <item>
         <bitmap
-            android:src="@mipmap/ic_splash_screen"
+            android:src="@drawable/ic_splash_screen"
             android:gravity="center"/>
     </item>
 </layer-list>

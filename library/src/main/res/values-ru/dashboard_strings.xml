@@ -32,22 +32,24 @@
     <string name="copy">Копировать</string>
     <!-- Tap Intro -->
     <string name="tap_intro_wallpapers_navigation">Навигация</string>
-    <string name="tap_intro_wallpapers_navigation_desc">Нажми или потяни слева для открытия навигации</string>
-    <string name="tap_intro_wallpapers_search">Поиск</string>
+    <string name="tap_intro_wallpapers_navigation_desc">Потяни слева для открытия навигации!</string>   <string name="tap_intro_wallpapers_search">Поиск</string>
     <string name="tap_intro_wallpapers_search_desc">Нажми для поиска</string>
     <string name="tap_intro_wallpapers_filter">Фильтр</string>
     <string name="tap_intro_wallpapers_filter_desc">Нажми для отображения по категориям</string>
     <string name="tap_intro_wallpapers_option">Настройки обои</string>
-    <string name="tap_intro_wallpapers_option_desc">Нажмите и удерживайте, чтобы показать параметры обоев, %s применить обои.</string>
+    <string name="tap_intro_wallpapers_option_desc">Нажми и удерживай, чтобы открыть параметры или %s применить обои.</string>
     <string name="tap_intro_wallpapers_option_desc_download">скачать или</string>
     <string name="tap_intro_wallpapers_preview">Просмотр обои</string>
-    <string name="tap_intro_wallpapers_preview_desc">Нажми здесь для просмотра в полном размере</string>
+    <string name="tap_intro_wallpapers_preview_desc">Нажми для просмотра в полном размере</string>
     <string name="tap_intro_wallpapers_favorite">Избранные обои</string>
-    <string name="tap_intro_wallpapers_favorite_desc">Нажми здесь для добавления фона в избранное</string>
+    <string name="tap_intro_wallpapers_favorite_desc">Нажми для добавления фона в избранное</string>
     <string name="tap_intro_wallpaper_preview_settings">Настройки обои</string>
     <string name="tap_intro_wallpaper_preview_save">Сохранить обои</string>
-    <string name="tap_intro_wallpaper_preview_save_desc">Нажмите что бы загрузить и сохранить обои на своем устройстве, что бы Вы могли использовать их позже.</string>
+    <string name="tap_intro_wallpaper_preview_save_desc">Загрузить и сохранить обои на вашем устройстве - легко!</string>
     <string name="tap_intro_wallpaper_preview_apply">Установить как обои</string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">Установить крутой фон на рабочий стол!</string>
+    <string name="tap_intro_wallpaper_preview_full">Обои в оригинальном размере!</string>
+    <string name="tap_intro_wallpaper_preview_full_desc">Тут можешь просмотреть фон в высочайшем разрешении!</string>
     <!-- Wallpapers -->
     <string name="wallpaper_filter">Фильтр по категории</string>
     <string name="wallpaper_downloading">Скачивание фонового рисунка …</string>
@@ -140,4 +142,14 @@
     <string name="wallpaper_settings_lockscreen_not_available">Обои экрана блокировки доступны только на Android Nougat</string>
     <string name="pref_wallpaper_location_desc">Сначала загрузите хотя бы один фоновый рисунок</string>
     <string name="pref_others_colored_wallpaper_card">Цветные карточки</string>
+    <!-- Wallpaper Property -->
+    <string name="wallpaper_property_name">Название: %s</string>
+    <string name="wallpaper_property_author">Автор: %s</string>
+    <string name="wallpaper_property_dimensions">Разрешение: %s</string>
+    <string name="wallpaper_property_format">Формат: %s</string>
+    <string name="wallpaper_property_size">Размер: %s</string>
+    <string name="wallpaper_property_palette">Цветовая схема</string>
+    <string name="wallpaper_property_color">Цвет: %s</string>
+    <string name="wallpaper_property_category">Категория</string>
+
 </resources>
