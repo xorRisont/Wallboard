@@ -54,7 +54,7 @@ public class ImageConfig {
         DisplayImageOptions.Builder options = new DisplayImageOptions.Builder();
         options.delayBeforeLoading(10)
                 .resetViewBeforeLoading(true)
-                .bitmapConfig(Bitmap.Config.RGB_565)
+                .bitmapConfig(Bitmap.Config.ARGB_8888)
                 .imageScaleType(ImageScaleType.EXACTLY)
                 .displayer(new FadeInBitmapDisplayer(700))
                 .cacheOnDisk(true)
@@ -75,7 +75,7 @@ public class ImageConfig {
     public static DisplayImageOptions.Builder getRawDefaultImageOptions() {
         DisplayImageOptions.Builder options = new DisplayImageOptions.Builder();
         options.delayBeforeLoading(10)
-                .bitmapConfig(Bitmap.Config.RGB_565)
+                .bitmapConfig(Bitmap.Config.ARGB_8888)
                 .imageScaleType(ImageScaleType.EXACTLY);
         return options;
     }
