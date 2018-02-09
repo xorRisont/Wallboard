@@ -27,6 +27,7 @@ buildscript {
     repositories {
         jcenter()
         mavenCentral()
+        google()
         maven { url 'https://maven.google.com' }
         maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
     }
@@ -86,6 +87,9 @@ dependencies {
     compile "com.android.support:cardview-v7:$rootProject.ext.SupportLibrary"
     compile "com.android.support:design:$rootProject.ext.SupportLibrary"
     compile "com.android.support:palette-v7:$rootProject.ext.SupportLibrary"
+
+    implementation 'com.github.bumptech.glide:glide:4.5.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.5.0'
 
     compile 'com.bluelinelabs:logansquare:1.3.7'
     annotationProcessor 'com.bluelinelabs:logansquare-compiler:1.3.7'

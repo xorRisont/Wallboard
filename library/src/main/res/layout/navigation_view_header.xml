@@ -20,8 +20,8 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="bottom|start"
-        android:padding="8dp"
-        android:background="@color/navigationViewTitleBack">
+        android:padding="10dp"
+        android:background="@drawable/nav_header">
 
         <TextView
             android:id="@+id/header_title"
