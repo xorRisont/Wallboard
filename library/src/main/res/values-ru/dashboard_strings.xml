@@ -64,6 +64,10 @@
     <string name="connection_failed">Не удалось получить данные с сервера</string>
     <string name="wallpaper_apply">Установить как обои</string>
     <!-- Wallpaper Tooltips -->
+    <string name="wallpaper_tooltip_preview">Сейчас отображается превью изображения в низком разрешении. Возможны некоторые искажения. Советуем просмотреть на этот крутой фон в максимальном разрешении!</string>
+    <string name="wallpaper_tooltip_preview_icon_tap">Нажми на этот значек, что бы смотреть фон в максимальном разрешении!</string>
+    <string name="wallpaper_tooltip_dont_show">Не показывать снова</string>
+
     <!-- Wallpaper Property -->
     <!-- Muzei -->
     <string name="minute">Минута</string>
